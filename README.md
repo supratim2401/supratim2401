@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">💻 __Data Analyst | Problem Solver | Tech Enthusiast__ <br><br>Welcome to my Github! 🚀<br>I’m passionate about uncovering insights from data and building solutions that drive smarter decisions. With experience in **SQL, Python, R, Power BI, Tableau and Excel**, I specialize in transforming raw datasets into actionable business insights.</p>
+<p align="left">💻 Data Analyst | Problem Solver | Tech Enthusiast <br><br>Welcome to my Github! 🚀<br>I’m passionate about uncovering insights from data and building solutions that drive smarter decisions. With experience in SQL, Python, R, Power BI, Tableau and Excel, I specialize in transforming raw datasets into actionable business insights.</p>
 
 ###
 
-<p align="left">Here you will find:<br><br>✨ New skills/technologies I will be learning in my data analyst journey<br>💼 End-to-end projects where I implement these skills/tools to solve business problems<br><br>Let's explore data, solve problems and learn something new each day! ⭐️</p>
+<p align="left">Here you will find:<br>✨ New skills/technologies I will be learning in my data analyst journey<br>💼 End-to-end projects where I implement these skills/tools to solve business problems<br><br>Let's explore data, solve problems and learn something new each day! ⭐️</p>
 
 ###
 
