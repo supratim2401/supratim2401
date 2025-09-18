@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻**Data Analyst | Problem Solver | Tech Enthusiast** <br><br>Welcome to my Github! 🚀<br>I’m passionate about uncovering insights from data and building solutions that drive smarter decisions. With experience in **SQL, Python, R, Power BI, Tableau and Excel**, I specialize in transforming raw datasets into actionable business insights.</p>
+<p align="left">💻 __Data Analyst | Problem Solver | Tech Enthusiast__ <br><br>Welcome to my Github! 🚀<br>I’m passionate about uncovering insights from data and building solutions that drive smarter decisions. With experience in **SQL, Python, R, Power BI, Tableau and Excel**, I specialize in transforming raw datasets into actionable business insights.</p>
 
 ###
 
