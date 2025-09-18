@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Here you will find:<br>✨ New skills/technologies I will be learning in my data analyst journey<br>💼 End-to-end projects where I implement these skills/tools to solve business problems<br><br>Let's explore data, solve problems and learn something new each day! ⭐️</p>
+<p align="left">Here you will find:<br>✨ New skills/technologies I will be learning in my data analyst journey<br>💼 End-to-end data analysis projects where I implement these skills/tools to solve business problems<br><br>Let's explore data, solve problems and learn something new each day! ⭐️</p>
 
 ###
 
